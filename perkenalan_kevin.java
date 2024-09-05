@@ -1,7 +1,7 @@
 /**
  * Tugas04
  */
-public class Tugas04 {
+public class perkenalan_kevin {
 
     public static void main(String[] args) {
         System.out.println("---------------------------------------------------------");
