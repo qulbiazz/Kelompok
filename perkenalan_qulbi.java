@@ -1,5 +1,3 @@
-package Kelompok;
-
 class perkenalan_qulbi {
     public static void main(String[] args) {
         System.out.println("Nama    : Qulbi Khutsi Azzumi");
